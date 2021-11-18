@@ -1,7 +1,7 @@
 # Online-Bus-Ticket-Reservation-System
 
 Download the whole project : https://drive.google.com/file/d/1kh42DxMOyQ1ylD2GlbK8iiX73CuDcLKJ/view?usp=sharing <br>
-Complete project description : 
+Complete project description in Blog : 
 
 ## Introduction
 Due to the prevailing Covid-19 pandemic in Sri Lanka, people should maintain social distancing and reduce physical transaction within people while performing their day-to-day activities. When considering transportation, most of the people use buses as their public transportation method. Since covid 19 pandemic arise, there are few guidelines to be followed in public transportation to reduce the spread of Covid-19. As a solution for all these problems, we have developed the website “Online bus ticket reservation system”. <br>
