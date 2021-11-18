@@ -9,6 +9,12 @@ Online bus ticket reservation system will be the most convenient method of booki
 * Both Admin and Passenger User Interfaces and Backends are coded.
 * Two are seperately implemented
 
+## Product Functions
+* Bus management- It can manage the buses and their routes, timetables.
+* Customer management- Customers can be added or removed with admin privileges.
+* Employee management- Manage employees who can access the website.
+* Booking / Payment management- Booking is fully online and payments either online or at the tour.
+
 ## Software Interfaces
 Languages - PHP, HTML, CSS, JavaScript, JQuery, Bootstrap <br>
 Database - MySQL <br>
